@@ -6,5 +6,4 @@ function getColor(color) {
     return "The color is " + color
 }
 
-module.exports = getGreeting;
-module.exports = getColor;
+module.exports = getGreeting, getColor;
